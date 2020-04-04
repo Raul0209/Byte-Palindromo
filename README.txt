@@ -1,0 +1,2 @@
+Para poder iniciar el proyecto es necesario tener instalado algun ide que ejecute javascript, puede ser eclipse o netbeans.
+Debe abrir el proyecto con el ide y luego ejecutarlo dando click en el boton Play
